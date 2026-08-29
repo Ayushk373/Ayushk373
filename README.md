@@ -151,7 +151,8 @@ Projects               █████░░░░░  50%
 
 ---
 
-# 🐍 Contribution Snake
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
