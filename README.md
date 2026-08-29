@@ -71,7 +71,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 **Topics:** `Arrays` `Linked List` `Stack` `Queue` `Trees` `Algorithms`
 
-🔗 **Repository:** 🔴 EDIT THIS → `YOUR_DSA_REPOSITORY_LINK`
+🔗 **Repository:** 🔴 EDIT THIS → `https://github.com/Ayushk373/DSA-REPO`
 
 ---
 
