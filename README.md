@@ -182,9 +182,9 @@ Projects               █████░░░░░  50%
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
-🔴 **LinkedIn:** `YOUR_LINKEDIN_PROFILE_LINK`
+🔴 **LinkedIn:** `https://www.linkedin.com/in/ayush-khude-16179b37a?utm_source=share_via&utm_content=profile&utm_medium=member_android`
 
-🔴 **Email:** `YOUR_EMAIL`
+🔴 **Email:** `ayushkhude373@gmail.com`
 
 </div>
 
