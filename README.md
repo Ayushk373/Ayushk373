@@ -32,3 +32,15 @@ Python • Git • Open Source
 
 $ goal
 Build things that solve real problems.
+
+## 🧠 My Learning Journey
+
+### 2026
+
+C++              ███████░░░ 70%
+OOP              ██████░░░░ 60%
+DSA              ████░░░░░░ 40%
+Python           ██████░░░░ 60%
+Git & GitHub     ████░░░░░░ 40%
+
+> Progress > Perfection
