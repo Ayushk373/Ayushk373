@@ -44,3 +44,11 @@ Python           ██████░░░░ 60%
 Git & GitHub     ████░░░░░░ 40%
 
 > Progress > Perfection
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushk373&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
