@@ -3,8 +3,11 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
+
+# Give GitHub Actions permission to write to the repository
+permissions:
+  contents: write
 
 jobs:
   generate:
