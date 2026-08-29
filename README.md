@@ -61,7 +61,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 **Concepts:** `C++` `Arrays` `Functions` `OOP`
 
-🔗 **Repository:** 🔴 EDIT THIS → `YOUR_PROJECT_LINK`
+🔗 **Repository:** 🔴 EDIT THIS → `https://github.com/Ayushk373/Student-Management-System-`
 
 ---
 
