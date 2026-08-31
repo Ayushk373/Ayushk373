@@ -35,7 +35,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,git,github,vscode,latex" />
 
 </p>
 
