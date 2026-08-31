@@ -147,24 +147,23 @@ Projects               █████░░░░░  50%
 ---
 
 
-## 🐍 CYBER CONTRIBUTION SNAKE
+
+<h2>🐍 CYBER CONTRIBUTION SNAKE</h2>
 
 <p align="center">
   <picture>
-    
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/cyber-snake-dark.gif">
+      srcset="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/cyber-snake-dark.svg">
 
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/cyber-snake-light.gif">
+      srcset="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/cyber-snake-light.svg">
 
     <img
-      src="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/cyber-snake-light.gif"
+      src="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/cyber-snake-light.svg"
       width="800"
-      alt="Cyber Contribution Snake">
-      
+      alt="Ayush's Cyber Contribution Snake">
   </picture>
 </p>
 ## 💡 Developer Philosophy
