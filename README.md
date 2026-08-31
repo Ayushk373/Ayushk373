@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ayush Khude
 
-### `Engineering Student` • `C++ Developer` • `DSA Learner` • `Python Enthusiast`
+### `Engineering Student` • `C++ Developer` • `DSA Learner` • `Python Learner`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Learning+DSA+with+C%2B%2B+%F0%9F%A7%A0;Building+Projects+%F0%9F%9A%80;Exploring+Python+%F0%9F%90%8D;Learning+Something+New+Every+Day+%F0%9F%94%A5" />
 
