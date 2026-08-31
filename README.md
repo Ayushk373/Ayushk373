@@ -61,7 +61,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 **Concepts:** `C++` `Arrays` `Functions` `OOP`
 
-🔗 **Repository:** 🔴 EDIT THIS → `https://github.com/Ayushk373/Student-Management-System-`
+🔗 **Repository:** "https://github.com/Ayushk373/Student-Management-System-"
 
 ---
 
@@ -71,7 +71,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 **Topics:** `Arrays` `Linked List` `Stack` `Queue` `Trees` `Algorithms`
 
-🔗 **Repository:** 🔴 EDIT THIS → `https://github.com/Ayushk373/DSA-REPO`
+🔗 **Repository:**  "https://github.com/Ayushk373/DSA-REPO"
 
 ---
 
@@ -81,7 +81,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 **Concepts:** `Python` `OOP` `File Handling` `Data Analysis`
 
-🔗 **Repository:** 🔴 EDIT THIS → `YOUR_PYTHON_REPOSITORY_LINK`
+🔗 **Repository:** 
 
 ---
 
