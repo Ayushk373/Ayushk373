@@ -91,14 +91,14 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 ---
 
-# 🔥 Coding Streak
+<h2>🔥 Coding Streak</h2>
 
-<div align="center">
-
-<img height="170"src="https://streak-stats.demolab.com?user=Ayushk373&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ayushk373&theme=tokyonight&hide_border=true"
+    alt="Ayush's GitHub Streak"
+  />
+</p>
 ---
 
 ## 📈 Contribution Activity
