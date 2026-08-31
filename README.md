@@ -99,7 +99,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushk373&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushk373&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ayushk373&theme=tokyonight&hide_border=true" />
+<img height="170"src="https://streak-stats.demolab.com?user=Ayushk373&theme=tokyonight&hide_border=true" />
 
 </div>
 
