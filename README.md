@@ -87,20 +87,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushk373&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushk373&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true" />
-
-</div>
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushk373&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
