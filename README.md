@@ -105,7 +105,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushk373&theme=tokyo-night&hide_border=true&area=true"
+    src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=Ayushk373&theme=tokyo-night&hide_border=true&area=true"
     alt="Ayush's GitHub Activity Graph"
   />
 </p>
