@@ -101,11 +101,11 @@ Learn → Practice → Build → Fail → Improve → Repeat
 </p>
 ---
 
-## 📈 Contribution Activity
+<h2>📈 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=Ayushk373&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushk373&theme=tokyo-night&hide_border=true"
     alt="Ayush's GitHub Activity Graph"
   />
 </p>
