@@ -71,7 +71,7 @@ A simple student management system created to practice programming fundamentals 
 
 🔗 [View Project](https://github.com/Ayushk373/student-management-system)
 
-**Tech:** Python
+**Tech:** c++
 
 ---
 
