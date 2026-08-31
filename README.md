@@ -147,13 +147,11 @@ Projects               █████░░░░░  50%
 ---
 
 
-## 🐍 Contribution Snake
+## 🐍 My Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/github-contribution-grid-snake.svg" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushk373/Ayushk373/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
