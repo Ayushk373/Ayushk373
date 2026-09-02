@@ -100,7 +100,7 @@ My journey of learning Data Structures & Algorithms with C++, including implemen
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Ayushk373&theme=tokyonight&hide_border=true"
+   src="https://streak-stats.demolab.com?user=Ayushk373&theme=tokyonight&hide_border=true&v=2"
     alt="Ayush's GitHub Streak"
   />
 </p>
