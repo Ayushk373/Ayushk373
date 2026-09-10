@@ -106,14 +106,6 @@ My journey of learning Data Structures & Algorithms with C++, including implemen
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushk373&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
-
 ---
 
 # 🎯 2026 Mission
