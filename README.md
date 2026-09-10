@@ -95,15 +95,15 @@ My journey of learning Data Structures & Algorithms with C++, including implemen
 
 
 ---
-
 <h2>🔥 Coding Streak</h2>
 
 <p align="center">
   <img
-   src="https://streak-stats.demolab.com?user=Ayushk373&theme=tokyonight&hide_border=true&v=2"
+    src="https://streak-stats.demolab.com/?user=Ayushk373&theme=tokyonight&hide_border=true"
     alt="Ayush's GitHub Streak"
   />
 </p>
+
 ---
 
 # 🏆 GitHub Achievements
